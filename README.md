@@ -4,5 +4,5 @@ In terms of safety engineering, for hazardous gas leakage, forest fire spread, e
 Using deep learning methods for model generation. This project has designed a VAE+DCGAN+Transformer model, which only requires input of wind speed, direction, and leakage
 Three data indicators are used to predict the results.
 
-**Due to academic involvement, the project is currently not publicly available** 
+**Due to academic involvement, the project is currently not publicly available**   
 **Planned after June 2024**
